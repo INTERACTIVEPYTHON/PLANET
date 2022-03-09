@@ -1,4 +1,4 @@
-'''from turtle import Shape, Turtle, mainloop, Vec2D as Vec
+from turtle import Shape, Turtle, mainloop, Vec2D as Vec
 
 G = 8
 
